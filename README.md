@@ -1,5 +1,5 @@
 # repositories
-- https://github.com/Asplushii/serenote - serenote, not public yet, a web app for making notes, moodboards
+- https://github.com/Asplushii/serenote - serenote, a web app for making notes, moodboards WIP - https://serenote.vercel.app/
 - https://github.com/Asplushii/optim - visual generation - https://optim-beta.vercel.app/
 - https://github.com/Asplushii/pass - simple password generator - https://pass-omega.vercel.app/
 - https://github.com/Asplushii/puma - showcase of my keyboard layout - https://puma-three.vercel.app/
