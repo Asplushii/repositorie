@@ -6,4 +6,3 @@
 - https://github.com/Asplushii/relationship - visualization of data by making connections - https://relationshipa.vercel.app/
 - https://github.com/Asplushii/repo - visual generation, sorting pixels of an image - https://relationshipa.vercel.app/
 - https://github.com/Asplushii/mandelbrot - mandelbrot viewer - https://benoit.vercel.app/
-- https://github.com/Asplushii/aage - streaming website, doesn't work anymore because of API changes
